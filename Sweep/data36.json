@@ -1,6 +1,6 @@
 {
     "vehicleCapacity": [{"1":100}],
-    "depot": {"x": 15, "y": 19},
+    "depot": [{"x": 15, "y": 19}],
     "nodes": [
         {"x":1   , "y": 49  , "demand": 1 },
 		{"x":87   , "y": 25  , "demand": 14 },
